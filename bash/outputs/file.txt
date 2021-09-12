@@ -1,0 +1,7 @@
+total 16
+drwxr-xr-x  6 tinkitwong  staff  192 Sep 11 20:56 .
+drwxr-xr-x  6 tinkitwong  staff  192 Sep 11 20:37 ..
+-rw-r--r--  1 tinkitwong  staff  255 Sep 11 20:56 basic.sh
+-rw-r--r--  1 tinkitwong  staff    0 Sep 11 20:56 file.txt
+-rw-r--r--  1 tinkitwong  staff    0 Sep 11 20:43 file1.txt
+-rw-r--r--  1 tinkitwong  staff   35 Sep 11 20:41 file2.txt
